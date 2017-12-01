@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kwejk API</string>
+
+    <string name="title_activity_main">Kwejk.pl</string>
+    <string name="left_nav">Previous</string>
+    <string name="right_nav">Next</string>
+
+    <string name="reinit_dialog_msg">Could not connect to kwejk.pl. Please check your internet connection and try again.</string>
+    <string name="reinit_dialog_positive">Retry</string>
+    <string name="reinit_dialog_negative">Cancel</string>
+</resources>
